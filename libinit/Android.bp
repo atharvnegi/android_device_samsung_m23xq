@@ -17,6 +17,7 @@ cc_library_static {
     name: "libinit_m23xq",
     srcs: ["init_m23xq.cpp"],
     recovery_available: true,
+    shared_libs: ["libbase"],
     include_dirs: [
         "system/libbase/include",
         "system/core/init"
