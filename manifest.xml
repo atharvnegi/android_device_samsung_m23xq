@@ -341,9 +341,4 @@
         <transport>hwbinder</transport>
         <fqname>@2.0::ISehUcm/default</fqname>
     </hal>
-    <hal format="hidl">
-        <name>vendor.samsung.hardware.wifi.supplicant</name>
-        <transport>hwbinder</transport>
-        <fqname>@3.1::ISehSupplicant/default</fqname>
-    </hal>
 </manifest>
