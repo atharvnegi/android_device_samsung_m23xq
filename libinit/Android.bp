@@ -14,8 +14,8 @@
 // limitations under the License.
 //
 cc_library_static {
-    name: "libinit_a52sxq",
-    srcs: ["init_a52sxq.cpp"],
+    name: "libinit_m23xq",
+    srcs: ["init_m23xq.cpp"],
     recovery_available: true,
     include_dirs: [
         "system/libbase/include",
