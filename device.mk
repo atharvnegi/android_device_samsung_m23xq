@@ -54,7 +54,7 @@ PRODUCT_PACKAGES += \
     init.crda.sh \
 
 PRODUCT_PACKAGES += \
-    fstab.ramplus \
+    fstab.qcom \
     init.qcom.factory.rc \
     init.m23xq.rc \
     init.qcom.usb.rc \

@@ -185,7 +185,7 @@ prebuilt_etc {
 
 // fstab
 prebuilt_etc {
-    name: "fstab.ramplus",
+    name: "fstab.qcom",
     src: "etc/fstab.ramplus",
     vendor: true,
 }
